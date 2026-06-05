@@ -1,1 +1,1 @@
-/* Full ProviderSettings.jsx with localStorage persistence */
+Clean ProviderSettings using new ProviderConnection system

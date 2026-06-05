@@ -1,1 +1,1 @@
-Updated generation service with real xAI integration
+Now has real Fal.ai API integration + xAI prompt enhancement

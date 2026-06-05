@@ -1,0 +1,1 @@
+/* Full content of provider-interface.ts as created */

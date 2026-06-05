@@ -1,0 +1,1 @@
+Updated architecture direction - API first, xAI priority, no local ComfyUI dependency

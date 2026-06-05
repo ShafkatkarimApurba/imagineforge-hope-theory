@@ -1,0 +1,1 @@
+{"_comment": "ImagineForge by Hope Theory - Example Flux T2I Workflow", "nodes": [{"id": 1, "type": "CheckpointLoaderSimple", "widgets_values": ["flux1-dev-Q4_K_S.gguf"]}]}

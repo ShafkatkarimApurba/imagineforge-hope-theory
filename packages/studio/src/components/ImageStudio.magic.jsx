@@ -1,1 +1,1 @@
-Added Download + Remix functionality, improved result handling and UX
+Enhanced Magic Edit experience with better preview and iteration

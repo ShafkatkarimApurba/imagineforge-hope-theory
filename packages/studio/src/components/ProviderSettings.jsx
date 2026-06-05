@@ -1,0 +1,1 @@
+/* Full ProviderSettings.jsx with localStorage persistence */

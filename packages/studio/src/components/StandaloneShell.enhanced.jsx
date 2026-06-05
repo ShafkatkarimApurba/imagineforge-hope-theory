@@ -1,0 +1,1 @@
+/* Full enhanced StandaloneShell with Inpaint tab integration and header controls */

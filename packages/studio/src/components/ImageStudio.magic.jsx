@@ -1,1 +1,1 @@
-Integrated with real generationService - no more mocks
+Added Download + Remix functionality, improved result handling and UX

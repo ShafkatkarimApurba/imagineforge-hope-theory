@@ -1,0 +1,1 @@
+Full xAI Grok API client with prompt enhancement

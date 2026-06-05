@@ -1,1 +1,1 @@
-Clean generation service ready for xAI, Fal, Replicate etc.
+Updated generation service with real xAI integration

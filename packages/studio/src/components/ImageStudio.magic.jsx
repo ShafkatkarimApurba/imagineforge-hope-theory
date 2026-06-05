@@ -1,1 +1,1 @@
-Added localStorage persistent history and Clear History functionality
+Added proper side-by-side comparison view in Magic Edit mode

@@ -1,1 +1,1 @@
-Enhanced Magic Edit experience with better preview and iteration
+Added localStorage persistent history and Clear History functionality
